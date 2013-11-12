@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<calculation name="calculator1">
+    <variable value="2"/>
+    <variable value="8"/>
+    <add/>
+    <variable value="100"/>
+    <mutiple/>
+</calculation>
